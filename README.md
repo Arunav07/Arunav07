@@ -7,6 +7,7 @@
 <h3>
   <h4><em>Let's connect on social media as well: </em>
     <br>
+    <hr>
 <a href="instagram.com/arunavchandra"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/512px-Instagram.svg.png?20170725025253" alt="instagram" width="40px"><img></a> 
 <a href="https://www.linkedin.com/in/arunav-chandra-1146031b0/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" alt="linkedin"></img></a>
 <a href="https://www.hackerrank.com/arunav014_ac"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40px" alt="Hackerrank"></img></a>
