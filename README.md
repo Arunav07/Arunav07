@@ -53,5 +53,5 @@ I have worked on multiple projects pertaining to Artificial Intelligence, Machin
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" height="35px" width="140px"></img>&nbsp
   </ul>
  </ul>
- 
+ <p><img align="right" src="(https://github-readme-stats.vercel.app/api?Arunav07count_private=true&theme=radical&show_icons=true"></img></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunav07&show_icons=true&locale=en&layout=compact&count_private=true&theme=synthwave" alt="arunavchandra" /></p>
