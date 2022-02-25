@@ -51,6 +51,7 @@ I have worked on multiple projects pertaining to Artificial Intelligence, Machin
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="35px" height="35px"></img>&nbsp
     <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" height="35px" width="35px"></img>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" height="35px" width="140px"></img>&nbsp
-
   </ul>
  </ul>
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunavchandrah&show_icons=true&locale=en&layout=compact&count_private=true&theme=synthwave" alt="arunavchandra" /></p>
