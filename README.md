@@ -2,7 +2,11 @@
 <hr>
 <img align="center" width="100%" alt="Coding" width="400" src="Arunav Chandra.png" /> 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dArunav07&label=Profile%20views&color=FF6F61&style=for-the-badge&label=Number of Visitors" alt="arunavchandra" /> </p>
-
+<p>I am a learner, studying in daytime and learning at night. I am passionate about building things, right from my childhood, when I used to stack stones above each other to create a tower. Little did I know, later I would be doing the Tower Of Hanoi problem. Yeah, the one problem every programmer tries to solve.
+<br>
+Currently I am pursuing <em> Bachelor of Technology (BTech) from Vishwakarma Institute of Technology, Pune, India, in the field <strong>Artificial Intelligence and Data Science </strong></em>
+  
+</p>
 <h2 align="center">Let's connect here ➡️ <a href="mailto:arunav014.ac@gmail.com">Mail Me</a></h2>
 <h3>
   <h4 align="center"><em>Let's connect on social media as well: </em>
@@ -25,7 +29,7 @@
       <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="35px"></img></li>
       <li><img src="https://pngset.com/images/web-development-js-html-css-svg-text-logo-symbol-first-aid-transparent-png-721653.png" alt="Web Dev" width="35px"></img></li>
       <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="35px"></img></li>
-
     </ul>
+    
   </li>
  </ul>
