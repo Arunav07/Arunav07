@@ -51,6 +51,10 @@ I have worked on multiple projects pertaining to Artificial Intelligence, Machin
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" height="35px" width="140px"></img>&nbsp
   </ul>
  </ul>
+ <img src="animation_640_l02y0fxd.gif" alt="gif
+  ></img> <hr>
+ <hr>
+ <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arunav07&count_private=true&show_icons=true&locale=en&theme=codeSTACKr" alt="arunavChandra" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunav07&theme=algolia" alt="arunavChandra" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunav07&theme=radical" alt="arunavChandra" /></p>
