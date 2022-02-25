@@ -5,6 +5,7 @@
 <p>I am a learner, studying in daytime and learning at night. I am passionate about building things, right from my childhood, when I used to stack stones above each other to create a tower. Little did I know, later I would be doing the Tower Of Hanoi problem. Yeah, the one problem every programmer tries to solve.
 <br>
 Currently I am pursuing <em> Bachelor of Technology (BTech) from Vishwakarma Institute of Technology, Pune, India, in the field <strong>Artificial Intelligence and Data Science </strong></em>
+I have worked on multiple projects pertaining to Artificial Intelligence, Machine Learning, as well as Web Development.
 <h2>Experience: 
   <ul>
     <li>Frontend Web Developer Intern at Saaspect Private Limited</li>
@@ -34,6 +35,9 @@ Currently I am pursuing <em> Bachelor of Technology (BTech) from Vishwakarma Ins
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="35px" height="35px"></img>&nbsp
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="JS" width="35px" height="35px"></img>&nbsp
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="35px" height="35px"></img>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="R" width="35px" height="35px"></img>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="R" width="35px" height="35px"></img>
+
       </p>
     </ul>
     
