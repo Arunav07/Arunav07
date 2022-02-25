@@ -45,7 +45,7 @@ Currently I am pursuing <em> Bachelor of Technology (BTech) from Vishwakarma Ins
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" width="35px" height="35px"></img>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg/2560px-Microsoft_Office_2013-2019_logo_and_wordmark.svg.png" width="100px" height="35px"></img>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="35px" height="35px"></img>&nbsp
-    <img src="https://binmile.com/wp-content/uploads/2021/05/206-2063294_the-postman-logo-is-available-in-png-svg.jpg" height="35px" width="100px"></img>&nbsp
+    <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" height="35px" width="35px"></img>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" height="35px" width="140px"></img>&nbsp
 
   </ul>
