@@ -52,5 +52,5 @@ I have worked on multiple projects pertaining to Artificial Intelligence, Machin
   </ul>
  </ul>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Arunav07&show_icons=true&locale=en" alt="arunavChandra" /></p>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunav07&theme=radical" alt="arunavChandra" /></p>
