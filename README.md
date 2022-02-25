@@ -37,10 +37,8 @@ I have worked on multiple projects pertaining to Artificial Intelligence, Machin
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="35px" height="35px"></img>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="R" width="35px" height="35px"></img>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="R" width="35px" height="35px"></img>
-
       </p>
     </ul>
-    
   </li>
   <h2>Tools</h2>
   <ul>
@@ -53,5 +51,6 @@ I have worked on multiple projects pertaining to Artificial Intelligence, Machin
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" height="35px" width="140px"></img>&nbsp
   </ul>
  </ul>
- <p><img align="right" src="(https://github-readme-stats.vercel.app/api?Arunav07count_private=true&theme=radical&show_icons=true"></img></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Arunav07&show_icons=true&locale=en" alt="arunavChandra" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunav07&theme=radical" alt="arunavChandra" /></p>
