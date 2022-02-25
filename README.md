@@ -5,7 +5,7 @@
 
 <h2 align="center">Let's connect here ➡️ <a href="mailto:arunav014.ac@gmail.com">Mail Me</a></h2>
 <h3>
-  <h4><em>Let's connect on social media as well: </em>
+  <h4 align="center"><em>Let's connect on social media as well: </em>
     <br>
     <br>
 <a href="instagram.com/arunavchandra"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/512px-Instagram.svg.png?20170725025253" alt="instagram" width="40px"><img></a> 
