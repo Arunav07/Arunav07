@@ -54,4 +54,4 @@ I have worked on multiple projects pertaining to Artificial Intelligence, Machin
   </ul>
  </ul>
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunavchandrah&show_icons=true&locale=en&layout=compact&count_private=true&theme=synthwave" alt="arunavchandra" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunav07&show_icons=true&locale=en&layout=compact&count_private=true&theme=synthwave" alt="arunavchandra" /></p>
