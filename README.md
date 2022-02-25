@@ -24,11 +24,13 @@ Currently I am pursuing <em> Bachelor of Technology (BTech) from Vishwakarma Ins
   <li>
     <h2>Languages</h2>
     <ul>
-      <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="35px"></img>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="35px"></img>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="35px"></img>
-      <img src="https://pngset.com/images/web-development-js-html-css-svg-text-logo-symbol-first-aid-transparent-png-721653.png" alt="Web Dev" width="35px"></img>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="35px"></img>
+      <p>
+      <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="35px" height="35px"></img>&nbsp
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="35px" height="35px"></img>&nbsp
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="35px" height="35px"></img>&nbsp
+      <img src="https://pngset.com/images/web-development-js-html-css-svg-text-logo-symbol-first-aid-transparent-png-721653.png" alt="Web Dev" width="35px" height="35px"></img>&nbsp
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="35px" height="35px"></img>
+      </p>
     </ul>
     
   </li>
