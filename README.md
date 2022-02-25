@@ -40,7 +40,7 @@ Currently I am pursuing <em> Bachelor of Technology (BTech) from Vishwakarma Ins
   </li>
   <h2>Tools</h2>
   <ul>
-  <img src="https://www.pngfind.com/pngs/m/176-1766942_our-github-repos-are-here-github-icon-hd.png" width="35px" height="35px"></img>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="35px" height="35px"></img>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="35px" height="35px"></img>&nbsp
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" width="35px" height="35px"></img>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg/2560px-Microsoft_Office_2013-2019_logo_and_wordmark.svg.png" width="100px" height="35px"></img>&nbsp
