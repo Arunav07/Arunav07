@@ -8,6 +8,7 @@ Currently I am pursuing <em> Bachelor of Technology (BTech) from Vishwakarma Ins
 I have worked on multiple projects pertaining to Artificial Intelligence, Machine Learning, as well as Web Development.
 <h2>Experience: 
   <ul>
+    <li>Frontend Web Developer Intern at Agrofield Private Limited</li>
     <li>Frontend Web Developer Intern at Saaspect Private Limited</li>
   </ul>
 </h2>
